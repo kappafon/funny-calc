@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/funny-calc/static/css/main.dfca195d.chunk.css",
+    "main.js": "/funny-calc/static/js/main.d4ee4085.chunk.js",
+    "main.js.map": "/funny-calc/static/js/main.d4ee4085.chunk.js.map",
+    "runtime-main.js": "/funny-calc/static/js/runtime-main.1a3a6ff4.js",
+    "runtime-main.js.map": "/funny-calc/static/js/runtime-main.1a3a6ff4.js.map",
+    "static/js/2.2d157b36.chunk.js": "/funny-calc/static/js/2.2d157b36.chunk.js",
+    "static/js/2.2d157b36.chunk.js.map": "/funny-calc/static/js/2.2d157b36.chunk.js.map",
+    "index.html": "/funny-calc/index.html",
+    "precache-manifest.d59d860af3f18daa46183d656c44e9c7.js": "/funny-calc/precache-manifest.d59d860af3f18daa46183d656c44e9c7.js",
+    "service-worker.js": "/funny-calc/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/funny-calc/static/css/main.dfca195d.chunk.css.map",
+    "static/media/logo.svg": "/funny-calc/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a3a6ff4.js",
+    "static/js/2.2d157b36.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.d4ee4085.chunk.js"
+  ]
+}
