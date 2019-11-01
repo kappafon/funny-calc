@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/funny-calc/static/css/main.d3009229.chunk.css",
+    "main.css": "/funny-calc/static/css/main.2cf6574d.chunk.css",
     "main.js": "/funny-calc/static/js/main.c62a5f8b.chunk.js",
     "main.js.map": "/funny-calc/static/js/main.c62a5f8b.chunk.js.map",
     "runtime-main.js": "/funny-calc/static/js/runtime-main.1a3a6ff4.js",
@@ -8,14 +8,14 @@
     "static/js/2.c2410cfa.chunk.js": "/funny-calc/static/js/2.c2410cfa.chunk.js",
     "static/js/2.c2410cfa.chunk.js.map": "/funny-calc/static/js/2.c2410cfa.chunk.js.map",
     "index.html": "/funny-calc/index.html",
-    "precache-manifest.31d52eb026e9ed536144a4ae76ff9d07.js": "/funny-calc/precache-manifest.31d52eb026e9ed536144a4ae76ff9d07.js",
+    "precache-manifest.677370c046c2524e6429de5ef7cb36e4.js": "/funny-calc/precache-manifest.677370c046c2524e6429de5ef7cb36e4.js",
     "service-worker.js": "/funny-calc/service-worker.js",
-    "static/css/main.d3009229.chunk.css.map": "/funny-calc/static/css/main.d3009229.chunk.css.map"
+    "static/css/main.2cf6574d.chunk.css.map": "/funny-calc/static/css/main.2cf6574d.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.1a3a6ff4.js",
     "static/js/2.c2410cfa.chunk.js",
-    "static/css/main.d3009229.chunk.css",
+    "static/css/main.2cf6574d.chunk.css",
     "static/js/main.c62a5f8b.chunk.js"
   ]
 }
