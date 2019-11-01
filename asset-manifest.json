@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/funny-calc/static/css/main.2cf6574d.chunk.css",
-    "main.js": "/funny-calc/static/js/main.c62a5f8b.chunk.js",
-    "main.js.map": "/funny-calc/static/js/main.c62a5f8b.chunk.js.map",
+    "main.css": "/funny-calc/static/css/main.f1217e81.chunk.css",
+    "main.js": "/funny-calc/static/js/main.3c99f6b4.chunk.js",
+    "main.js.map": "/funny-calc/static/js/main.3c99f6b4.chunk.js.map",
     "runtime-main.js": "/funny-calc/static/js/runtime-main.1a3a6ff4.js",
     "runtime-main.js.map": "/funny-calc/static/js/runtime-main.1a3a6ff4.js.map",
-    "static/js/2.c2410cfa.chunk.js": "/funny-calc/static/js/2.c2410cfa.chunk.js",
-    "static/js/2.c2410cfa.chunk.js.map": "/funny-calc/static/js/2.c2410cfa.chunk.js.map",
+    "static/js/2.148fb2e0.chunk.js": "/funny-calc/static/js/2.148fb2e0.chunk.js",
+    "static/js/2.148fb2e0.chunk.js.map": "/funny-calc/static/js/2.148fb2e0.chunk.js.map",
     "index.html": "/funny-calc/index.html",
-    "precache-manifest.677370c046c2524e6429de5ef7cb36e4.js": "/funny-calc/precache-manifest.677370c046c2524e6429de5ef7cb36e4.js",
+    "precache-manifest.1dbdeec6b3ad3371840474bb829bb308.js": "/funny-calc/precache-manifest.1dbdeec6b3ad3371840474bb829bb308.js",
     "service-worker.js": "/funny-calc/service-worker.js",
-    "static/css/main.2cf6574d.chunk.css.map": "/funny-calc/static/css/main.2cf6574d.chunk.css.map"
+    "static/css/main.f1217e81.chunk.css.map": "/funny-calc/static/css/main.f1217e81.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.1a3a6ff4.js",
-    "static/js/2.c2410cfa.chunk.js",
-    "static/css/main.2cf6574d.chunk.css",
-    "static/js/main.c62a5f8b.chunk.js"
+    "static/js/2.148fb2e0.chunk.js",
+    "static/css/main.f1217e81.chunk.css",
+    "static/js/main.3c99f6b4.chunk.js"
   ]
 }
